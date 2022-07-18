@@ -39,7 +39,10 @@ Once all the information has been added, we can click to Test Connection, to see
 ![](https://github.com/jfpalomeque/100_days_of_SQL/blob/main/day_1/Pasted%20image%2020220718201326.png)
 If everything works, we can go to SQL Editor > Open SQL console
 ![](https://github.com/jfpalomeque/100_days_of_SQL/blob/main/day_1/Pasted%20image%2020220718202821.png)
-And on the new console write: 
+And on the new console write:
+```sql
+SELECT version();
+```
 SELECT version();
 and run the query, that should show the PostgreSQL version. And that is our first SQL query!
 ![](https://github.com/jfpalomeque/100_days_of_SQL/blob/main/day_1/Pasted%20image%2020220718202844.png)
