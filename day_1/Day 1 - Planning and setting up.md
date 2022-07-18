@@ -13,7 +13,7 @@ If there is any issue or question, you can write to jfpalomeque.gonzalez@gmail.c
 As mentioned, I will use a PostgreSQL database hosted in a cloud provider. I will be using Heroku, that in their free plan, "Hobby Dev", offer a lot of functionalities, and don't require a Bank Card to sign in. All the functionalities can be checked here: https://elements.heroku.com/addons/heroku-postgresql
 
 We can go to https://id.heroku.com/login and click to Sign Up. There we can fill all our personal details, and we will receive an email to confirm our email address.
-![alt text]([http://url/to/img.png](https://github.com/jfpalomeque/100_days_of_SQL/blob/main/day_1/Pasted%20image%2020220718195808.png)
+![alt text]([http://url/to/img.png](https://github.com/jfpalomeque/100_days_of_SQL/blob/main/day_1/Pasted%20image%2020220718195808.png))
 Once that has been done, we can create a password, accept the terms and conditions, and reach a menu where we can create a new web app.
 ![[Pasted image 20220718200059.png]]
 ![[Pasted image 20220718200145.png]]
