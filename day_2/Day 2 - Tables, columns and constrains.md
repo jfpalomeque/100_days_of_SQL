@@ -5,7 +5,7 @@ Relational databases stores the data on tables, that can look something similar 
 In the picture, we can see an example of a table from a fictional DVD rental shop, where each item is each specific (and fake) DVD, and for each one the title, release year, length in minutes and replacement cost is recorded, each field in a different column.
 
 
-![[Pasted image 20220726192606.png]]
+![](https://github.com/jfpalomeque/100_days_of_SQL/blob/main/day_2/Pasted%20image%2020220726192606.png)
 On future days we will explain the different data types each column can be, but for now we will name three data types we will use to create our first table: serial, varchar and numeric.
 
 * Serial: Is a numeric column that automatically increments by one each time a row is added to the table. We will use that to create automatically unique ID numbers for each row, that we will use later to join tables (we will talk about joins and relationships in future days).
@@ -98,4 +98,4 @@ And we have 4 rows in our table, that we can see using the following code:
 ``` sql
 select * from employees;
 ```
-![[Pasted image 20220726212334.png]]
+![](https://github.com/jfpalomeque/100_days_of_SQL/blob/main/day_2/Pasted%20image%2020220726212334.png)
